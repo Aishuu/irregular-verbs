@@ -1,0 +1,11 @@
+<div class="col-md-8 col-md-offset-2 part" id="papers" ng-controller="papersController">
+    <div class="unseen" id="papersunseen"></div>
+    <h2>Publications</h2>
+    <p><ul>
+        <li ng-repeat="paper in papers"><span class="title">{{paper.title}}</span><br />
+        <span class="authors">{{paper.authors}}</span><br />
+        <span class="bib">{{paper.bib}}</span><br />
+        <span class="link"><a ng-href="./assets/linkedFiles/{{paper.abbrev}}.pdf">PDF</a> <a ng-href="./assets/linkedFiles/{{paper.abbrev}}.bib">Bibtex</a> <span ng-show="paper.slides"><a ng-href="./assets/linkedFiles/{{paper.abbrev}}_slides.pdf">Slides</a></span></span></li>
+    </ul></p>
+    <p>I've also been involved in the reviewing process of the following conferences: <span ng-repeat="conf in confs">{{$first ? '' : $last ? ' and ' : ', '}}<a ng-href="{{conf.url}}">{{conf.title}}</a></span>.</p>
+</div>

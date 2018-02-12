@@ -1,0 +1,13 @@
+<div class="container-fluid topContainer">
+    <!-- <div class="row" ng-include="'app/caroussel/caroussel.html'">
+    </div> -->
+    <div class="row" ng-include="'app/header/header.html'">
+    </div>
+    <div class="container">
+        <div class="col-md-8 col-md-offset-2 part" style="height: 50px; background: #fff;"></div>
+        <div ng-repeat="page in pages" ng-include="'app/' + page.url + '/' + page.url + '.html'">
+        </div>
+    </div>
+    <div class="row" ng-include="'app/footer/footer.html'">
+    </div>
+</div>

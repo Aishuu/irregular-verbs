@@ -1,0 +1,548 @@
+[
+    {
+        "bv": ["awake"],
+        "preterit": ["awoke"],
+        "pp": ["awoken"],
+        "trad": ["eveiller"]
+    },
+    {
+        "bv": ["be"],
+        "preterit": ["was", "were"],
+        "pp": ["been"],
+        "trad": ["etre"]
+    },
+    {
+        "bv": ["beat"],
+        "preterit": ["beat"],
+        "pp": ["beaten"],
+        "trad": ["battre"]
+    },
+    {
+        "bv": ["become"],
+        "preterit": ["became"],
+        "pp": ["become"],
+        "trad": ["devenir"]
+    },
+    {
+        "bv": ["begin"],
+        "preterit": ["began"],
+        "pp": ["begun"],
+        "trad": ["commencer"]
+    },
+    {
+        "bv": ["bend"],
+        "preterit": ["bent"],
+        "pp": ["bent"],
+        "trad": ["plier"]
+    },
+    {
+        "bv": ["bet"],
+        "preterit": ["bet"],
+        "pp": ["bet"],
+        "trad": ["parier"]
+    },
+    {
+        "bv": ["bid"],
+        "preterit": ["bid"],
+        "pp": ["bid"],
+        "trad": ["encherir"]
+    },
+    {
+        "bv": ["bite"],
+        "preterit": ["bit"],
+        "pp": ["bitten"],
+        "trad": ["mordre"]
+    },
+    {
+        "bv": ["blow"],
+        "preterit": ["blew"],
+        "pp": ["blown"],
+        "trad": ["souffler"]
+    },
+    {
+        "bv": ["break"],
+        "preterit": ["broke"],
+        "pp": ["broken"],
+        "trad": ["casser"]
+    },
+    {
+        "bv": ["bring"],
+        "preterit": ["brought"],
+        "pp": ["brought"],
+        "trad": ["apporter", "amener"]
+    },
+    {
+        "bv": ["broadcast"],
+        "preterit": ["broadcast"],
+        "pp": ["broadcast"],
+        "trad": ["diffuser"]
+    },
+    {
+        "bv": ["build"],
+        "preterit": ["built"],
+        "pp": ["built"],
+        "trad": ["construire"]
+    },
+    {
+        "bv": ["burn"],
+        "preterit": ["burned", "burnt"],
+        "pp": ["burned", "burnt"],
+        "trad": ["bruler"]
+    },
+    {
+        "bv": ["buy"],
+        "preterit": ["bought"],
+        "pp": ["bought"],
+        "trad": ["acheter"]
+    },
+    {
+        "bv": ["catch"],
+        "preterit": ["caught"],
+        "pp": ["caught"],
+        "trad": ["attraper"]
+    },
+    {
+        "bv": ["choose"],
+        "preterit": ["chose"],
+        "pp": ["chosen"],
+        "trad": ["choisir"]
+    },
+    {
+        "bv": ["come"],
+        "preterit": ["came"],
+        "pp": ["come"],
+        "trad": ["venir"]
+    },
+    {
+        "bv": ["cost"],
+        "preterit": ["cost"],
+        "pp": ["cost"],
+        "trad": ["couter"]
+    },
+    {
+        "bv": ["cut"],
+        "preterit": ["cut"],
+        "pp": ["cut"],
+        "trad": ["couper"]
+    },
+    {
+        "bv": ["dig"],
+        "preterit": ["dug"],
+        "pp": ["dug"],
+        "trad": ["creuser"]
+    },
+    {
+        "bv": ["do"],
+        "preterit": ["did"],
+        "pp": ["done"],
+        "trad": ["faire"]
+    },
+    {
+        "bv": ["draw"],
+        "preterit": ["drew"],
+        "pp": ["drawn"],
+        "trad": ["tirer", "dessiner"]
+    },
+    {
+        "bv": ["dream"],
+        "preterit": ["dreamed", "dreamt"],
+        "pp": ["dreamed", "dreamt"],
+        "trad": ["rever"]
+    },
+    {
+        "bv": ["drive"],
+        "preterit": ["drove"],
+        "pp": ["driven"],
+        "trad": ["conduire"]
+    },
+    {
+        "bv": ["drink"],
+        "preterit": ["drank"],
+        "pp": ["drunk"],
+        "trad": ["boire"]
+    },
+    {
+        "bv": ["eat"],
+        "preterit": ["ate"],
+        "pp": ["eaten"],
+        "trad": ["manger"]
+    },
+    {
+        "bv": ["fall"],
+        "preterit": ["fell"],
+        "pp": ["fallen"],
+        "trad": ["tomber"]
+    },
+    {
+        "bv": ["feel"],
+        "preterit": ["felt"],
+        "pp": ["felt"],
+        "trad": ["sentir", "ressentir"]
+    },
+    {
+        "bv": ["fight"],
+        "preterit": ["fought"],
+        "pp": ["fought"],
+        "trad": ["combattre"]
+    },
+    {
+        "bv": ["find"],
+        "preterit": ["found"],
+        "pp": ["found"],
+        "trad": ["trouver"]
+    },
+    {
+        "bv": ["fly"],
+        "preterit": ["flew"],
+        "pp": ["flown"],
+        "trad": ["voler"]
+    },
+    {
+        "bv": ["forget"],
+        "preterit": ["forgot"],
+        "pp": ["forgotten"],
+        "trad": ["oublier"]
+    },
+    {
+        "bv": ["forgive"],
+        "preterit": ["forgave"],
+        "pp": ["forgiven"],
+        "trad": ["pardonner"]
+    },
+    {
+        "bv": ["freeze"],
+        "preterit": ["froze"],
+        "pp": ["frozen"],
+        "trad": ["geler"]
+    },
+    {
+        "bv": ["get"],
+        "preterit": ["got"],
+        "pp": ["got", "gotten"],
+        "trad": ["recevoir", "obtenir"]
+    },
+    {
+        "bv": ["give"],
+        "preterit": ["gave"],
+        "pp": ["given"],
+        "trad": ["donner"]
+    },
+    {
+        "bv": ["go"],
+        "preterit": ["went"],
+        "pp": ["gone"],
+        "trad": ["aller"]
+    },
+    {
+        "bv": ["grow"],
+        "preterit": ["grew"],
+        "pp": ["grown"],
+        "trad": ["grandir"]
+    },
+    {
+        "bv": ["hang"],
+        "preterit": ["hung"],
+        "pp": ["hung"],
+        "trad": ["pendre", "suspendre"]
+    },
+    {
+        "bv": ["have"],
+        "preterit": ["had"],
+        "pp": ["had"],
+        "trad": ["avoir"]
+    },
+    {
+        "bv": ["hear"],
+        "preterit": ["heard"],
+        "pp": ["heard"],
+        "trad": ["entendre"]
+    },
+    {
+        "bv": ["hide"],
+        "preterit": ["hid"],
+        "pp": ["hidden"],
+        "trad": ["cacher"]
+    },
+    {
+        "bv": ["hit"],
+        "preterit": ["hit"],
+        "pp": ["hit"],
+        "trad": ["frapper"]
+    },
+    {
+        "bv": ["hold"],
+        "preterit": ["held"],
+        "pp": ["held"],
+        "trad": ["tenir"]
+    },
+    {
+        "bv": ["hurt"],
+        "preterit": ["hurt"],
+        "pp": ["hurt"],
+        "trad": ["blesser"]
+    },
+    {
+        "bv": ["keep"],
+        "preterit": ["kept"],
+        "pp": ["kept"],
+        "trad": ["rester", "garder"]
+    },
+    {
+        "bv": ["know"],
+        "preterit": ["knew"],
+        "pp": ["known"],
+        "trad": ["savoir", "connaitre"]
+    },
+    {
+        "bv": ["lay"],
+        "preterit": ["laid"],
+        "pp": ["laid"],
+        "trad": ["poser"]
+    },
+    {
+        "bv": ["lead"],
+        "preterit": ["led"],
+        "pp": ["led"],
+        "trad": ["mener"]
+    },
+    {
+        "bv": ["learn"],
+        "preterit": ["learned", "learnt"],
+        "pp": ["learned", "learnt"],
+        "trad": ["apprendre"]
+    },
+    {
+        "bv": ["leave"],
+        "preterit": ["left"],
+        "pp": ["left"],
+        "trad": ["laisser", "quitter", "partir"]
+    },
+    {
+        "bv": ["lend"],
+        "preterit": ["lent"],
+        "pp": ["lent"],
+        "trad": ["preter"]
+    },
+    {
+        "bv": ["let"],
+        "preterit": ["let"],
+        "pp": ["let"],
+        "trad": ["laisser"]
+    },
+    {
+        "bv": ["lie"],
+        "preterit": ["lay"],
+        "pp": ["lain"],
+        "trad": ["allonger"]
+    },
+    {
+        "bv": ["lose"],
+        "preterit": ["lost"],
+        "pp": ["lost"],
+        "trad": ["perdre"]
+    },
+    {
+        "bv": ["make"],
+        "preterit": ["made"],
+        "pp": ["made"],
+        "trad": ["faire", "fabriquer"]
+    },
+    {
+        "bv": ["mean"],
+        "preterit": ["meant"],
+        "pp": ["meant"],
+        "trad": ["signifier"]
+    },
+    {
+        "bv": ["meet"],
+        "preterit": ["met"],
+        "pp": ["met"],
+        "trad": ["rencontrer"]
+    },
+    {
+        "bv": ["pay"],
+        "preterit": ["paid"],
+        "pp": ["paid"],
+        "trad": ["payer"]
+    },
+    {
+        "bv": ["put"],
+        "preterit": ["put"],
+        "pp": ["put"],
+        "trad": ["mettre"]
+    },
+    {
+        "bv": ["read"],
+        "preterit": ["read"],
+        "pp": ["read"],
+        "trad": ["lire"]
+    },
+    {
+        "bv": ["ride"],
+        "preterit": ["rode"],
+        "pp": ["ridden"],
+        "trad": ["chevaucher"]
+    },
+    {
+        "bv": ["ring"],
+        "preterit": ["rang"],
+        "pp": ["rung"],
+        "trad": ["sonner"]
+    },
+    {
+        "bv": ["rise"],
+        "preterit": ["rose"],
+        "pp": ["risen"],
+        "trad": ["lever", "elever"]
+    },
+    {
+        "bv": ["run"],
+        "preterit": ["ran"],
+        "pp": ["run"],
+        "trad": ["courir"]
+    },
+    {
+        "bv": ["say"],
+        "preterit": ["said"],
+        "pp": ["said"],
+        "trad": ["dire"]
+    },
+    {
+        "bv": ["see"],
+        "preterit": ["saw"],
+        "pp": ["seen"],
+        "trad": ["voir"]
+    },
+    {
+        "bv": ["sell"],
+        "preterit": ["sold"],
+        "pp": ["sold"],
+        "trad": ["vendre"]
+    },
+    {
+        "bv": ["send"],
+        "preterit": ["sent"],
+        "pp": ["sent"],
+        "trad": ["envoyer"]
+    },
+    {
+        "bv": ["show"],
+        "preterit": ["showed"],
+        "pp": ["showed", "shown"],
+        "trad": ["montrer"]
+    },
+    {
+        "bv": ["shut"],
+        "preterit": ["shut"],
+        "pp": ["shut"],
+        "trad": ["fermer"]
+    },
+    {
+        "bv": ["sing"],
+        "preterit": ["sang"],
+        "pp": ["sung"],
+        "trad": ["chanter"]
+    },
+    {
+        "bv": ["sit"],
+        "preterit": ["sat"],
+        "pp": ["sat"],
+        "trad": ["asseoir"]
+    },
+    {
+        "bv": ["sleep"],
+        "preterit": ["slept"],
+        "pp": ["slept"],
+        "trad": ["dormir"]
+    },
+    {
+        "bv": ["speak"],
+        "preterit": ["spoke"],
+        "pp": ["spoken"],
+        "trad": ["parler"]
+    },
+    {
+        "bv": ["spend"],
+        "preterit": ["spent"],
+        "pp": ["spent"],
+        "trad": ["depenser"]
+    },
+    {
+        "bv": ["stand"],
+        "preterit": ["stood"],
+        "pp": ["stood"],
+        "trad": ["lever"]
+    },
+    {
+        "bv": ["swim"],
+        "preterit": ["swam"],
+        "pp": ["swum"],
+        "trad": ["nager"]
+    },
+    {
+        "bv": ["take"],
+        "preterit": ["took"],
+        "pp": ["taken"],
+        "trad": ["prendre"]
+    },
+    {
+        "bv": ["teach"],
+        "preterit": ["taught"],
+        "pp": ["taught"],
+        "trad": ["enseigner"]
+    },
+    {
+        "bv": ["tear"],
+        "preterit": ["tore"],
+        "pp": ["torn"],
+        "trad": ["dechirer"]
+    },
+    {
+        "bv": ["tell"],
+        "preterit": ["told"],
+        "pp": ["told"],
+        "trad": ["dire", "raconter"]
+    },
+    {
+        "bv": ["think"],
+        "preterit": ["thought"],
+        "pp": ["thought"],
+        "trad": ["penser"]
+    },
+    {
+        "bv": ["throw"],
+        "preterit": ["threw"],
+        "pp": ["thrown"],
+        "trad": ["jeter"]
+    },
+    {
+        "bv": ["understand"],
+        "preterit": ["understood"],
+        "pp": ["understood"],
+        "trad": ["comprendre"]
+    },
+    {
+        "bv": ["wake"],
+        "preterit": ["woke"],
+        "pp": ["woken"],
+        "trad": ["reveiller"]
+    },
+    {
+        "bv": ["wear"],
+        "preterit": ["wore"],
+        "pp": ["worn"],
+        "trad": ["porter"]
+    },
+    {
+        "bv": ["win"],
+        "preterit": ["won"],
+        "pp": ["won"],
+        "trad": ["gagner"]
+    },
+    {
+        "bv": ["write"],
+        "preterit": ["wrote"],
+        "pp": ["written"],
+        "trad": ["ecrire"]
+    }
+]

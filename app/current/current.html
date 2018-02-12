@@ -1,0 +1,8 @@
+<div class="col-md-8 col-md-offset-2 part" id="current" ng-controller="currentController">
+    <div class="unseen" id="currentunseen"></div>
+    <h2>Ongoing projects</h2>
+    <p>As part of my work in the <a href="http://www.comelec.telecom-paristech.fr/group-labsoc-lab-system-on-chip.html">LabSoC team</a> and <a href="http://s3.eurecom.fr/">S3 group</a> I'm involved in the following projects:
+    <ul>
+        <li ng-repeat="project in projects"><a ng-href="{{project.url}}">{{project.title}}</a>: {{project.description}}</li>
+    </ul></p>
+</div>

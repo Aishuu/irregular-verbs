@@ -1,0 +1,9 @@
+<div class="col-md-12 header" ng-controller="headerController">
+    <table>
+        <tr style="height: 5px;"></tr>
+        <tr>
+            <td ng-repeat="page in $parent.pages" ng-click="goTo(page.url + 'unseen')">{{page.title}}</td>
+        </tr>
+        <tr style="height: 10px;"></tr>
+    </table>
+</div>
